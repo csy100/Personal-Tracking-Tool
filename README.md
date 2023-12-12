@@ -1,9 +1,14 @@
-# 📝 Algorithm
-算法题练习记录博客，基于GitHub Action和GitHub Issue功能记录
+# 📝 Personal Tracking Tool
+> 个人跟踪工具，基于GitHub Action和GitHub Issue功能记录
+
+## 📚 Introduce
+可以针对个人习惯，对每天的个人事情进行记录反馈
+* 读书学习
+* 工作记录
+* 每日总结
+* ......
 
 ## 🎯 Calendar
-
-
 
 * 2023/12
 
@@ -18,7 +23,6 @@
 
 ## 🍃 Records
 
-|#|Title|Tag|Date|
+| # |Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|3|[100. 相同的树](https://github.com/Doragd/Algorithm/issues/3)|`二叉树` `递归`|2023-12-10T12:14:09Z|
-|2|[110. 平衡二叉树](https://github.com/Doragd/Algorithm/issues/2)|`二叉树` `递归`|2023-12-10T10:56:53Z|
+| 1 |[100. 相同的树](https://github.com/Doragd/Algorithm/issues/3)|`二叉树` `递归`|2023-12-10T12:14:09Z|
